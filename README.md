@@ -4,7 +4,7 @@
  * Principal UX Consultant @ [Improving](https://www.improving.com)    
  * Cursed with Knowledge, and knowing... **_There is NO spoon_**  
   
-Founder of [IotaDelta.ai](https://iotadelta.ai) - _An AI Agency focused on giving true value to users_  
+Founder of [IotaDelta.ai](http://www.iotadelta.ai) – an AI start up focusing on Small Changes with AI, for **Huge Impacts in Life**.  
   
 ------  
   
@@ -16,6 +16,11 @@ Founder of [IotaDelta.ai](https://iotadelta.ai) - _An AI Agency focused on givin
 
 <!--
 **vaughnjackson/vaughnjackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal UX Consultant @ Improving
+Founder of Iota Delta LLC – an AI start up focusing on Small Changes with AI, for Huge Impacts in Life.
+Cursed with Knowledge & Striving for Innovation in UX, AI, & Strategy.
+~ There is no spoon!
+
 
 
 Here are some ideas to get you started:
